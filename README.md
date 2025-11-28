@@ -19,6 +19,4 @@ Connecting wires
 # OUTPUT
 <img width="843" height="707" alt="image" src="https://github.com/user-attachments/assets/72f98633-7032-47b1-af25-9e7360b24f03" />
 # Result
-
-
 The value of the unknown low resistance (S) was successfully measured using the Kelvin Double Bridge method.
